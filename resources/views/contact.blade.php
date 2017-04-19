@@ -57,7 +57,8 @@
 		</div>
 
 		<div class="copyright-section">
-			<p> Gestiadmundi Siglo XXI   &copy; Copyrigth 2017<br>J–404343539<br>Desarrollado por <a target="_blank" href="https://www.linkedin.com/in/dayannis-alguaca/">Dayannis Alguaca</a></p>
+			<p>2015 &copy; All Rights Reserved. Unify Theme by <a target="_blank" href="https://twitter.com/htmlstream">Htmlstream</a></p>
+			<p> Gestiadmundi Siglo XXI <br>J–404343539<br></p>
 			<ul class="social-icons">
 				<li><a href="#" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
 				<li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>

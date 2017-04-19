@@ -7,7 +7,7 @@
 		<div class="row service-box-v1">
 			<div class="col-md-4 col-sm-6">
 				<div class="service-block service-block-default">
-					<i class="icon-custom icon-lg icon-bg-u rounded-x fa fa-lightbulb-o"></i>
+					<i class="icon-custom icon-lg icon-bg-u rounded-x fa fa-user"></i>
 					<h2 class="heading-md">Consultoría Gerencial Administrativa</h2>
 					<p>Incluye los servicios de:</p>
 					<ul class="list-unstyled">
@@ -20,7 +20,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="service-block service-block-default">
-					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line icon-present"></i>
+					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line fa fa-building"></i>
 					<h2 class="heading-sm">Consultoría Comercial</h2>
 					<p>Incluye los servicios de:</p>
 					<ul class="list-unstyled">
@@ -33,7 +33,7 @@
 			</div>
 			<div class="col-md-4 col-sm-12">
 				<div class="service-block service-block-default">
-					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line icon-rocket"></i>
+					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line icon-bar-chart"></i>
 					<h2 class="heading-sm">Consultoría Contable</h2>
 					<p>Incluye los servicios de:</p>
 					<ul class="list-unstyled">
@@ -48,7 +48,7 @@
 		<div class="row service-box-v1">
 			<div class="col-md-6 col-sm-6">
 				<div class="service-block service-block-default">
-					<i class="icon-custom icon-lg icon-bg-u rounded-x fa fa-lightbulb-o"></i>
+					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line fa fa-bar-chart-o"></i>
 					<h2 class="heading-md">Consultoría Contable y Financiero</h2>
 					<p>Adicional al Servicio contable, incluye:</p>
 					<ul class="list-unstyled">
@@ -59,7 +59,7 @@
 			</div>
 			<div class="col-md-6 col-sm-6">
 				<div class="service-block service-block-default">
-					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line icon-present"></i>
+					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line fa fa-users"></i>
 					<h2 class="heading-sm">Consultoría Administrativa:</h2>
 					<p>Incluye los servicios de:</p>
 					<ul class="list-unstyled">
@@ -72,7 +72,7 @@
 		<div class="row service-box-v1">
 			<div class="col-md-12 col-sm-12">
 				<div class="service-block service-block-default">
-					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line icon-rocket"></i>
+					<i class="icon-custom icon-lg icon-bg-u rounded-x icon-line fa fa-star"></i>
 					<h2 class="heading-sm">Consultoría de Servicios Especiales:</h2>
 					<p>Incluye los servicios de:</p>
 					<ul class="list-unstyled">

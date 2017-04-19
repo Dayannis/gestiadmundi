@@ -39,7 +39,7 @@
 	<link rel="stylesheet" href="assets/css/plugins/style-switcher.css">
 
 	<!-- CSS Theme -->
-	<link rel="stylesheet" href="assets/css/theme-colors/default.css" id="style_color">
+	<link rel="stylesheet" href="assets/css/theme-colors/blue.css" id="style_color">
 	<link rel="stylesheet" href="assets/css/theme-skins/one.dark.css">
 
 	<!-- CSS Customization -->
@@ -128,8 +128,7 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 					data-endeasing="Power1.easeIn"
 					data-captionhidden="off"
 					style="z-index: 6">
-					Creative freedom matters user experience.<br>
-					We minimize the gap between technology and its audience.
+					Brindamos la mejor atencion y servicio a fin de satisfacer sus requerimientos.
 				</div>
 
 				<!-- LAYER -->
