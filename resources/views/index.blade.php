@@ -173,7 +173,17 @@ The data-spy and data-target are part of the built-in Bootstrap scrollspy functi
 <section id="contact" class="contacts-section">
 	@include('contact')
 </section>
-<!-- End Contact Section --> 
+<!-- End Contact Section -->
+<div class="copyright-section">
+			<p> Gestiadmundi Siglo XXI <br>J–404343539<br></p>
+			<ul class="social-icons">
+				<li><a href="#" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
+				<li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>
+				<li><a href="#" data-original-title="Goole Plus" class="social_googleplus rounded-x"></a></li>
+				<li><a href="#" data-original-title="Linkedin" class="social_linkedin rounded-x"></a></li>
+			</ul>
+			<span class="page-scroll"><a href="#intro"><i class="fa fa-angle-double-up back-to-top"></i></a></span>
+		</div> 
 
 	<!-- JS Global Compulsory -->
 	<script src="assets/plugins/jquery/jquery.min.js"></script>
